@@ -1,0 +1,84 @@
+
+	*{
+		margin: 0%;
+		padding: 0%;
+	background-image: ;
+	}
+
+	body{
+		background-image: url(fondopri.jpg )  ;
+		
+		
+	}
+
+	img{
+		width: 100px; height: 100px;
+		opacity: 0.8;
+		padding: auto
+		;
+	}
+
+
+
+	.contact-form__h1 { color: transparent;
+		
+		position: fixed; top: 5%; padding-left: 10%;
+		text-align: center;
+		font-size: 50px;
+		font-family: Goudy Stout; 
+				background-image: url(imagenes/fondoletra.jpg);
+		-webkit-background-clip: text;
+
+
+			}
+
+	nav{
+		background-color: violet;
+		text-align: center;
+	}
+	nav a {        
+		
+		
+				padding: 1px;
+				color: #fff;
+
+				font-family: Goudy Stout;
+				text-decoration: none;
+				font-size: 10px;
+				justify-content: center;
+		
+	}
+
+	nav a:hover {
+				
+			color: blueviolet;	
+	}
+
+	section a {
+		border: 1px;
+		height: auto;
+		width:% 60;
+		padding: auto;
+		float: left;
+		
+	}
+
+	aside {
+		float: left;
+		position: absolute;
+		height: auto;
+		padding: auto;
+		width: 35%;
+	}
+
+
+
+	.contact-form__footer { color: #fff;
+		padding: auto;
+		max-width: auto;
+		white: 100%;
+	position: fixed; bottom: 0;
+
+
+}
+

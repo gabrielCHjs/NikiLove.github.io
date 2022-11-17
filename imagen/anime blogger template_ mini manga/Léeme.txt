@@ -1,0 +1,15 @@
+Tutorial: Cómo subir tu nueva plantilla de anime a Blogger
+
+1. Escoge la Plantilla que más te guste en Animemeeting.
+2. Una vez selecciones el diseño que más te gusta, haz clic en el botón “download”.
+3. Se abrirá una carpeta de Drive en una nueva pestaña.
+4. Haz clic derecho en el archivo con la extensión .XML y selecciona “descargar”.
+5. Entra a tu cuenta de Blogger y selecciona la pestaña “plantilla”, luego presionas en la opción “copia de Seguridad / restaurar”.
+6. En el cuadro que aparecerá deberás presionar en el botón “escoger archivo” ubicado en la parte inferior.
+7. Buscas el archivo descargado anteriormente, para luego presionar en el botón “subir”.
+8. y eso es todo!
+
+*Haz una copia de tu anterior plantilla por si acaso, para ello, sigues la misma ruta hasta el punto 5 pero seleccionas el botón “descargar plantilla” en la parte superior.
+
+**Puedes encontrar más plantillas de anime, tutoriales, consejos y más visitando: http://www.animemeeting.com
+
